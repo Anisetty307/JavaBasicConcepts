@@ -1,0 +1,64 @@
+Reverse the string 
+Write the array in ascending order for integer    input: int[] a={22,66,33,77,11}  , output: a={11,22,33,66,77}
+wrute the array in decending array for integer    input: int[] a={22,66,33,77,11}  , output: a={77,66,33,22,11}
+Find the largest number for array 
+Find the smallest number for array
+write the sume of even numbers
+write the split the array list even and odd
+
+
+write count the each character for given string   input:allu arjun                   out: a=2 l=2 u=2 r=1 j=1 n=1
+print first repeated character in given string    input: allu                        out: l
+Reverse the each word character                   input: my name is ravi             output: ym eman si ivar
+write the reverse the string for words.           input: my name is ravi             output: ravi is name my
+Remove the duplicates for given string  
+Find vowels and consonents for given string
+Find first non repeated character in given string Input:program                      out: p
+Reverse Array                                     input: int[] a={22,66,33,77,11}  , output: a={11,77,33,66,22}
+Count the frequnce of elements using Hash Map     String fruits={"apple","apple","banana"}   output: apple:2 , banana:1
+Remove the white spaces for given string 
+Extra digits from given string                    Input:ac123efc456                  Output: 123456
+
+ string input="allu";
+ Set<character>  seen=new HashMap<>:
+
+for(char ch:input.toCharArray) 
+{
+   if(seen.contain(ch))
+   {  s.o.p("first repeated charater"+ch);
+      return;
+   }
+   seen.add(ch);
+} 
+
+
+check given is prime or not 
+Find the duplicates elements 
+First non repeated character.
+words count in string
+Swap the two numbers 
+sum of few digits 
+Find the even and odd numbers 
+String legth without string .legth() 
+print elements at even/Odd indexes       
+
+
+
+
+
+
+
+
+
+
+
+
+palindrome check 
+Fibonacci series 
+Case conversion  input: Java Selenium  Output: jAVA sELENIUM 
+2nd largest number in an array 
+Missing number in sequence 
+Find common elements in given two Array      intput int[] a={1,3,4,5}   ,Output int[] b={2,3,4,6}
+
+ 
+ 
